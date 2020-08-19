@@ -1,5 +1,5 @@
-// © 2018 Lucas Jaggernauth
-// Do not copy, cite, or distribute without permission of the author
+// © 2018 Luke Jagg
+// MIT License
 
 import java.io.File;
 import java.util.ArrayList;
